@@ -1,0 +1,28 @@
+<?php
+
+return[
+    'HELLO' => 'hello this is the home page',
+    'FULL_STACK'  =>  'im a developper web full stack ):',
+    'LANG' => 'languages',
+    'English' => 'English',
+    'French' => 'French',
+    'Arabic' => 'Arabic',
+    'SITE-NAME' => 'Laravel starter',
+    'CHERKI-HAMZA' => 'CHERKI HAMZA',
+    'HOME' => 'Home',
+    'HOME_PAGE' => 'Home Page',
+    'DASHBOARD'  => 'Dashboard',
+    'ABOUT' => 'About',
+    'FEATURE' => 'Feature',
+    'PRICING' => 'Pricing',
+    'FAQ' => 'FAQ',
+    'CONTACT' => 'Contact',
+    'DEV' => 'Programming',
+    'PROFILE' => 'Profile',
+    'SETTINGS' => 'Settings',
+    'LOGOUT' => 'Logout',
+    'USERS' => 'المستخدمين',
+    'BLOG' => 'المدونة',
+    'Copyright' => 'حقوق النشر',
+    'COPY' => 'كل الحقوق محفوظة.',
+];

@@ -1,0 +1,27 @@
+<?php
+
+return[
+    'HELLO' => 'hola esta es la pagina de inicio',
+    'LANG' => 'languages',
+    'English' => 'English',
+    'French' => 'French',
+    'Arabic' => 'Arabic',
+    'SITE-NAME' => 'Laravel starter',
+    'CHERKI-HAMZA' => 'CHERKI HAMZA',
+    'HOME' => 'Inicio',
+    'HOME_PAGE' => 'página de inicio',
+    'DASHBOARD'  =>  'Tablero',
+    'ABOUT' => 'About',
+    'FEATURE' => 'Feature',
+    'PRICING' => 'Pricing',
+    'FAQ' => 'FAQ',
+    'CONTACT' => 'Contact',
+    'DEV' => 'Programming',
+    'PROFILE' => 'Profile',
+    'SETTINGS' => 'Settings',
+    'LOGOUT' => 'Logout',
+    'USERS' => 'المستخدمين',
+    'BLOG' => 'المدونة',
+    'Copyright' => 'حقوق النشر',
+    'COPY' => 'كل الحقوق محفوظة.',
+];

@@ -1,0 +1,27 @@
+<?php
+
+return[
+    'HELLO' => 'bonjour c\'est la page d\'accueil',
+    'CHERKI-HAMZA' => 'CHERKI HAMZA',
+    'SITE-NAME' => 'Entrée',
+    'LANG'  => 'Langues',
+    'English' => 'Anglais',
+    'French' => 'Français',
+    'Arabic' => 'arabe',
+    'HOME' => 'Accueil',
+    'HOME_PAGE' => 'Page D\'accueil',
+    'DASHBOARD'  => 'tableau de bord',
+    'ABOUT' => 'À propos de moi',
+    'FEATURE' => 'Fonctionnalités',
+    'PRICING' => 'Prix',
+    'FAQ' => 'QFP',
+    'CONTACT' => 'Contactez moi',
+    'DEV' => 'Programmation',
+    'PROFILE' => 'Profile',
+    'SETTINGS' => 'Réglages',
+    'LOGOUT' => 'Se Déconnecter',
+    'USERS' => 'المستخدمين',
+    'BLOG' => 'المدونة',
+    'Copyright' => 'حقوق النشر',
+    'COPY' => 'كل الحقوق محفوظة.',
+];
